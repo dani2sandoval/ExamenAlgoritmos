@@ -1,0 +1,8 @@
+Nombre del estudiante: Melvin
+Notas: 23.0, 56.0, 76.0, 87.0
+Promedio: 60.5
+
+Nombre del estudiante: & C:/Python311/python.exe "c:/Users/Florecita/OneDrive/Documentos/Python/Examen Final Algoritmos/supermercado.py"
+Notas: 32.0, 23.0, 65.0, 87.0
+Promedio: 51.75
+
